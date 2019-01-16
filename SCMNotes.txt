@@ -1,0 +1,6 @@
+Software Configuration Management
+
+Configuration management is unique identification, 
+controlled storage, 
+change control, 
+and status
